@@ -1,0 +1,13 @@
+body {
+    background-color:grey;
+    padding: 50px;
+    margin: 80px 80px;
+  }
+
+  div{
+    border: groove;
+    background-color:rgb(167, 224, 91);
+    padding: 50px;
+
+  }
+  
